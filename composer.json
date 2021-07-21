@@ -1,0 +1,29 @@
+{
+  "name": "uu/rpc",
+  "description": "UURPCServer",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "毛自豪",
+      "email": "4213509@qq.com"
+    }
+  ],
+  "homepage": "https://hyperf.plus",
+  "keywords": [
+    "hyperf",
+    "ui"
+  ],
+  "require": {
+    "php": ">=7.0",
+    "hyperf/json-rpc": "^2.2",
+    "hyperf/rpc-client": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "UU\\RPC\\": "src/"
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
