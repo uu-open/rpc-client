@@ -1,6 +1,6 @@
 {
   "name": "uu/rpc-client",
-  "description": "UURPCServer",
+  "description": "UURPCClient",
   "license": "MIT",
   "authors": [
     {
